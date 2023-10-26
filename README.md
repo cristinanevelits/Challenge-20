@@ -23,6 +23,7 @@
 ![Screenshot#4](https://github.com/cristinanevelits/Challenge-20/blob/main/src/images/Screenshot%202023-10-26%20at%2012.31.36%20AM.png)
 ![Screenshot#5](https://github.com/cristinanevelits/Challenge-20/blob/main/src/images/Screenshot%202023-10-26%20at%2012.31.45%20AM.png)
 
+## Heroku Deployed App Link: https://cristina-portfolio-37f3a2592b8c.herokuapp.com/
 
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge-20
 
